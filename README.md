@@ -14,4 +14,3 @@ This project aims to develop a system for recognizing and transcribing handwritt
 - User-friendly command-line interface
 
 
-Feel free to customize this template to fit your project's specific details and requirements. Let me know if you need any further assistance!
